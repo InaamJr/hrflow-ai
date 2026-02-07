@@ -17,13 +17,20 @@
   "dependencies": {
     "@faker-js/faker": "^8.4.0",
     "@supabase/supabase-js": "^2.39.0",
-    "openai": "^4.24.0",
     "docx": "^8.5.0",
-    "next": "^14.1.0",
+    "dotenv": "^17.2.4",
+    "lucide-react": "^0.563.0",
+    "next": "^16.1.6",
+    "openai": "^4.24.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "devDependencies": {},
   "author": "HRFlow AI Team",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19"
+  }
 }

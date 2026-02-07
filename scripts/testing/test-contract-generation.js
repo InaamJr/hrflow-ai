@@ -6,6 +6,9 @@
  * Usage: node test-contract-generation.js
  */
 
+require('dotenv').config();
+
+
 const { createClient } = require('@supabase/supabase-js');
 const { generateContract, generateContractsForEmployee } = require('../../lib/contract-generator');
 const fs = require('fs');
