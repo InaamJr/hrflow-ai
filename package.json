@@ -1,0 +1,21 @@
+{
+  "name": "hrflow-data-generator",
+  "version": "1.0.0",
+  "description": "Comprehensive HR data generator for HRFlow AI hackathon",
+  "main": "generate-hr-data.js",
+  "scripts": {
+    "generate": "node generate-hr-data.js",
+    "import": "node import-to-supabase.js",
+    "import:clear": "node import-to-supabase.js --clear",
+    "embeddings": "node generate-embeddings.js",
+    "embeddings:regenerate": "node generate-embeddings.js --regenerate"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^17.2.4",
+    "openai": "^4.24.0"
+  },
+  "author": "HRFlow AI Team",
+  "license": "MIT"
+}

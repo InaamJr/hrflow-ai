@@ -1,0 +1,58 @@
+[
+  {
+    "id": "7d0186d3-a196-440a-83eb-96f3ab384738",
+    "title": "Annual Leave Policy",
+    "category": "leave",
+    "country": null,
+    "content": "\n# Annual Leave Policy\n\n## Overview\nHRFlow AI provides generous annual leave to ensure work-life balance.\n\n## Leave Entitlement by Country\n- **Singapore:** 14 days per year\n- **United Kingdom:** 28 days per year (including bank holidays)\n- **United States:** 15 days per year\n- **India:** 18 days per year\n- **UAE:** 30 days per year\n\n## Accrual\nLeave accrues monthly from start date. During probation, leave accrues but cannot be taken without manager approval.\n\n## Requesting Leave\n1. Submit request at least 2 weeks in advance\n2. Manager approval required\n3. Maximum 10 consecutive days without VP approval\n4. Blackout periods: End of quarter (last week)\n\n## Carryover\nUp to 5 days may be carried to next year. Remaining balance forfeits.\n\n## Leave During Notice Period\nLeave cannot be taken during notice period unless approved.\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "fb547350-dd1e-4e16-9007-fc28a675ab6c",
+    "title": "Expense Policy",
+    "category": "expense",
+    "country": null,
+    "content": "\n# Expense Reimbursement Policy\n\n## Eligible Expenses\n### Travel\n- Economy flights for domestic travel\n- Business class for international flights >6 hours\n- Taxis/Uber when public transport unavailable\n- Hotel: Up to USD 200/night in major cities\n\n### Meals\n- Client meetings: Up to USD 75 per person\n- Team dinners: Up to USD 50 per person (manager approval)\n- Per diem while traveling: USD 60/day\n\n### Equipment\n- Laptop/desktop: Up to USD 2,500 every 3 years\n- Monitor: Up to USD 400\n- Keyboard/mouse: Up to USD 150\n- Headphones: Up to USD 200\n\n### Coworking Spaces\n- Approved for remote employees\n- Up to USD 300/month\n- Must be regular workspace, not cafes\n\n### Professional Development\n- Conferences: Up to USD 2,000/year (manager approval)\n- Online courses: Up to USD 500/year\n- Books: Up to USD 200/year\n\n## Submission Process\n1. Submit within 30 days via expense system\n2. Attach itemized receipts\n3. Manager approval required for >USD 500\n4. Reimbursement within 10 business days\n\n## Non-Reimbursable\n- Alcohol (unless client entertainment)\n- Personal items\n- Fines and penalties\n- First-class flights (without exec approval)\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "9fafd535-47ed-47c3-9066-2651547575cd",
+    "title": "Remote Work Policy",
+    "category": "remote_work",
+    "country": null,
+    "content": "\n# Remote Work Policy\n\n## Hybrid Work Model\nAll employees may work remotely up to 2 days per week.\n\n## Fully Remote Positions\nSome roles are designated fully remote:\n- Must be in approved countries (SG, UK, US, IN, UAE)\n- Required office visits: Quarterly all-hands\n- Home office stipend: USD 500 annually\n\n## Requirements\n1. **Connectivity:** Minimum 50 Mbps internet\n2. **Workspace:** Dedicated work area\n3. **Availability:** Core hours 10 AM - 4 PM local time\n4. **Security:** Company VPN required for all work\n5. **Equipment:** Company laptop required, no personal devices\n\n## Communication Expectations\n- Respond to Slack within 2 hours during work hours\n- Camera on for team meetings\n- Update calendar with working hours\n\n## International Remote Work\nWorking from other countries requires:\n- HR approval 2 weeks advance\n- Maximum 30 days per year\n- Tax and legal compliance verification\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "a36e90d3-b5e0-44b6-b3ba-2c1b66552756",
+    "title": "Promotion Guidelines",
+    "category": "career",
+    "country": null,
+    "content": "\n# Promotion Guidelines\n\n## Eligibility\n- Minimum 12 months in current role\n- Consistently \"Meets Expectations\" or higher performance ratings\n- Demonstrated competencies for next level\n\n## Promotion Criteria by Role\n\n### Junior → Mid-Level Engineer\n- Completes tasks independently\n- Reviews peers' code effectively\n- Mentors 1-2 junior team members\n- Drives small features end-to-end\n\n### Mid-Level → Senior Engineer\n- Designs systems independently\n- Leads projects with 3+ engineers\n- Sets technical direction for team\n- Mentors mid-level engineers\n- On-call rotation leadership\n\n### Senior → Staff Engineer\n- Designs multi-team systems\n- Recognized technical leader\n- Drives architectural decisions\n- Mentors senior engineers\n- Published technical content\n\n## Process\n1. Manager identifies candidate during calibration\n2. Peer feedback collection (360 review)\n3. Leadership panel review\n4. HR compensation analysis\n5. Offer letter with new title and salary\n\n## Timing\nPromotions announced during:\n- Mid-year review cycle (July)\n- End-year review cycle (January)\n\n## Compensation Increases\n- Junior → Mid: 15-20%\n- Mid → Senior: 20-25%\n- Senior → Staff: 25-30%\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "48a41403-5431-4312-b321-130e51e7e13f",
+    "title": "Benefits Handbook - Singapore",
+    "category": "benefits",
+    "country": "SG",
+    "content": "\n# Employee Benefits - Singapore\n\n## Medical Insurance\n- **Coverage:** Employee + spouse + children\n- **Provider:** AIA HealthShield\n- **Annual Limit:** SGD 100,000\n- **Outpatient:** SGD 1,500/year\n- **Dental:** SGD 800/year\n- **Vision:** SGD 300 every 2 years\n\n## Central Provident Fund (CPF)\n- Employer contribution: 17%\n- Employee contribution: 20%\n- Total: 37% of gross salary\n\n## Annual Leave\n- Standard: 14 days\n- Increases by 1 day every 2 years (max 21 days)\n\n## Parental Leave\n- Maternity: 16 weeks paid (government + company top-up)\n- Paternity: 2 weeks paid\n- Adoption: 12 weeks paid\n\n## Other Benefits\n- Annual health screening: Fully paid\n- Gym membership: SGD 100/month subsidy\n- Mobile phone: SGD 80/month allowance\n- Professional development: SGD 2,000/year\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "29794ad7-7446-43c7-951b-f855fd9930b4",
+    "title": "Benefits Handbook - United Kingdom",
+    "category": "benefits",
+    "country": "UK",
+    "content": "\n# Employee Benefits - United Kingdom\n\n## Medical Insurance\n- **Provider:** BUPA\n- **Coverage:** Employee + dependents\n- **Annual Limit:** £50,000\n- **Dental:** £500/year\n- **Vision:** £200 every 2 years\n\n## Pension\n- Employer contribution: 5%\n- Employee contribution: 5%\n- Auto-enrollment after 3 months\n\n## Annual Leave\n- Standard: 28 days (including bank holidays)\n- Increases by 1 day every 3 years (max 33 days)\n\n## Parental Leave\n- Maternity: 26 weeks paid\n- Paternity: 2 weeks paid\n- Shared parental: Up to 52 weeks\n\n## Other Benefits\n- Season ticket loan: Interest-free\n- Cycle to work scheme: Up to £2,000\n- Electric vehicle scheme: Available\n- Private medical: Optional upgrade\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  },
+  {
+    "id": "e5912c24-5261-47fe-ac56-00b29641aa23",
+    "title": "Code of Conduct",
+    "category": "compliance",
+    "country": null,
+    "content": "\n# Code of Conduct\n\n## Core Values\n1. **Integrity:** Honest in all dealings\n2. **Respect:** Treat everyone with dignity\n3. **Excellence:** Deliver high-quality work\n4. **Collaboration:** Work together effectively\n5. **Innovation:** Embrace new ideas\n\n## Expected Behaviors\n- Professional communication\n- Punctuality for meetings\n- Respect for diversity\n- Confidentiality of information\n- Compliance with laws and regulations\n\n## Prohibited Behaviors\n- Harassment or discrimination\n- Conflicts of interest\n- Misuse of company resources\n- Disclosure of confidential information\n- Accepting bribes or kickbacks\n\n## Reporting Violations\nReport concerns to:\n1. Direct manager\n2. HR department (hr@hrflow.ai)\n3. Anonymous hotline: 1-800-ETHICS\n\nAll reports investigated confidentially.\n      ",
+    "created_at": "2026-02-07T07:37:41.417Z"
+  }
+]
