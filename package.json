@@ -1,21 +1,29 @@
 {
-  "name": "hrflow-data-generator",
+  "name": "hrflow-ai",
   "version": "1.0.0",
-  "description": "Comprehensive HR data generator for HRFlow AI hackathon",
-  "main": "generate-hr-data.js",
+  "description": "AI-powered HR operations platform",
+  "main": "index.js",
   "scripts": {
-    "generate": "node generate-hr-data.js",
-    "import": "node import-to-supabase.js",
-    "import:clear": "node import-to-supabase.js --clear",
-    "embeddings": "node generate-embeddings.js",
-    "embeddings:regenerate": "node generate-embeddings.js --regenerate"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "generate": "node scripts/data-generation/generate-hr-data.js",
+    "verify": "node scripts/data-generation/verify-data.js",
+    "reset": "node scripts/database/reset-database.js",
+    "import": "node scripts/database/import-to-supabase.js",
+    "embeddings": "node scripts/database/generate-embeddings.js",
+    "test:contracts": "node scripts/testing/test-contract-generation.js"
   },
   "dependencies": {
     "@faker-js/faker": "^8.4.0",
     "@supabase/supabase-js": "^2.39.0",
-    "dotenv": "^17.2.4",
-    "openai": "^4.24.0"
+    "openai": "^4.24.0",
+    "docx": "^8.5.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
+  "devDependencies": {},
   "author": "HRFlow AI Team",
   "license": "MIT"
 }

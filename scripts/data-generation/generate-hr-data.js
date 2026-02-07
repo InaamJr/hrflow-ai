@@ -1093,7 +1093,7 @@ console.log(`  Expiring Soon (30-60 days): ${expiringSoon}`);
 
 console.log('\n💾 Saving data to JSON files...\n');
 
-const outputDir = './hr-data-export';
+const outputDir = './data/hr-data-export';
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }

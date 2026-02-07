@@ -22,7 +22,7 @@ const SUPABASE_URL = process.env.SUPABASE_URL || 'YOUR_SUPABASE_URL';
 const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || 'YOUR_SUPABASE_ANON_KEY';
 
 // Data directory
-const DATA_DIR = './hr-data-export';
+const DATA_DIR = './data/hr-data-export';
 
 // Batch size for inserts (Supabase handles up to 1000 rows well)
 const BATCH_SIZE = 500;
